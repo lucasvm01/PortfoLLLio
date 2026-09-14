@@ -40,4 +40,4 @@ Projeto de introdução ao frontend (sem framework), onde realizei um site com a
 Ultimamente, é um estudo de consumo de API, utilizando como exemplo a API de deputados disponibilizada pelo governo do país.
 
 
-### Portfolio dedicado ao processo seletivo da Apple Developer Academy 2026
+### Portfolio dedicado ao processo seletivo da Apple Developer Academy PUCPR 2027/2028
