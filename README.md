@@ -23,8 +23,8 @@ WIP.
 ## [p5_testing](https://github.com/lucasvm01/p5_testing)
 
 Exercícios pessoais para estudo de funcionamento da engine Processing 5 JS.
-No arquivo cg_basic.js, da mesma forma que o repositório OpenGLLL, utilizei de pontos no plano e transformações matemáticas para fazer um cubo rotacionar no espaço.
-Nos arquivos fourier_series_linear.js e fourier_series_sawtooth.js, utilizei de somatórios "infinitos" para transformar somas de funções senoides em funções do primeiro grau e modular.
+  No arquivo cg_basic.js, da mesma forma que o repositório OpenGLLL, utilizei de pontos no plano e transformações matemáticas para fazer um cubo rotacionar no espaço.
+  Nos arquivos fourier_series_linear.js e fourier_series_sawtooth.js, utilizei de somatórios "infinitos" para transformar somas de funções senoides em funções do primeiro grau e modular.
 
 ##  [WebShopAPI](https://github.com/lucasvm01/WebShopAPI)
 
